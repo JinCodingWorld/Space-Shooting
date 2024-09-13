@@ -1,6 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+// 무시항목 추가
+D/Work/Git Hub/Space Shooting/Binaries
+D/Work/Git Hub/Space Shooting/Intermediate
+D/Work/Git Hub/Space Shooting/Saved
+D/Work/Git Hub/Space Shooting/Content/Developers
+D/Work/Git Hub/Space Shooting/*.sln
+D/Work/Git Hub/Space Shooting/.vsconfig
+
 # Compiled Object files
 *.slo
 *.lo
